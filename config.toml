@@ -20,9 +20,9 @@ disableLanguageSwitchingButton = true
 disableShortcutsTitle=true
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-twitter fa-lg'></i> @moviolone"
-identifier = "tw"
-url = "https://twitter.com/intent/user?screen_name=moviolone"
+name = "<i class="fa-brands fa-linkedin"></i> @Smartworkz"
+identifier = "li"
+url = "https://www.linkedin.com/company/smartworkznl/about/"
 weight = 1
 
 [outputs]
