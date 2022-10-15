@@ -4,10 +4,12 @@ title = "Prerequisites"
 weight = 10
 
 +++
-In this module, we'll go through the prerequisites for the workshop, and set up a Cloud9 workspace for the workshop.
+**_In this module, we'll go through the prerequisites for the workshop, and set up a Cloud9 workspace for the workshop._**
 
-   Environment
+* [Environment](https://sagemaker-workshop.netlify.app/prerequisites/prerequisites.html)
 
-   Jupyter Notebooks
 
-   Cloud9 Setup
+* [Jupyter Notebooks](https://sagemaker-workshop.netlify.app/prerequisites/jupyter.html)
+
+
+* [Cloud9 Setup]()
