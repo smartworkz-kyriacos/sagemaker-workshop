@@ -25,6 +25,13 @@ identifier = "li"
 url = "https://www.linkedin.com/company/smartworkznl/about/"
 weight = 1
 
+[[menu.shortcuts]]
+name = "<i class='fa-solid fa-globe'></i> Smartworkz"
+
+identifier = "ws"
+url = "https://www.smartworkz.nl"
+weight = 2
+
 [outputs]
 home = [ "HTML", "AMP", "RSS", "JSON"]
 page = [ "HTML", "AMP"]
