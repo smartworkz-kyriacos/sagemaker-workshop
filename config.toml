@@ -24,6 +24,7 @@ disableShortcutsTitle=true
 name = "<i class='fa-solid fa-globe'></i> Web site"
 identifier = "ws"
 url = "https://www.smartworkz.nl"
+target="_blank"
 weight = 1
 
 [[menu.shortcuts]]
