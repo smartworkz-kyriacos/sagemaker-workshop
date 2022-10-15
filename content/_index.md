@@ -2,6 +2,7 @@
 title: Amazon SageMaker Workshop
 chapter: true
 weight: "1"
+draft: true
 
 ---
 ## Amazon SageMaker Workshop
