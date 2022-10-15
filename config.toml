@@ -10,7 +10,7 @@ googleAnalytics = "UA-119576367-1"
 hrefTargetBlank = true
 
 [params]
-themeVariant = "mine"
+themeVariant = "black"
 showVisitedLinks = false
 author = "Daniele Stroppa"
 description = "Amazon SageMaker Workshop"
