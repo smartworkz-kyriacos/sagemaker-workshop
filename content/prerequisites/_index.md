@@ -10,4 +10,4 @@ In this module, we'll go through the prerequisites for the workshop, and set up 
 
 [Jupyter Notebooks](https://sagemaker-workshop.netlify.app/prerequisites/jupyter.html)
 
-[Cloud9 Setup]()
+[Cloud9 Setup](https://sagemaker-workshop.netlify.app/prerequisites/cloud9.html)
