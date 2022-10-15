@@ -28,3 +28,5 @@ weight = 1
 [outputs]
 home = [ "HTML", "AMP", "RSS", "JSON"]
 page = [ "HTML", "AMP"]
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
