@@ -1,10 +1,9 @@
 +++
-title = "Creating a Notebook Instance"
 chapter = false
+title = "Create a Notebook Instance"
 weight = 40
+
 +++
-
-
 SageMaker provides hosted Jupyter notebooks that require no setup, so you can begin processing your training data sets immediately. With a few clicks in the SageMaker console, you can create a fully managed notebook instance, pre-loaded with useful libraries for machine learning. You need only add your data.
 
 You'll start by creating an Amazon S3 bucket that will be used throughout the workshop.  You'll then create a SageMaker notebook instance, which you will use for the other workshop modules.
