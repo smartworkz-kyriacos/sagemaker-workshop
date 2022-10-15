@@ -20,13 +20,13 @@ disableLanguageSwitchingButton = true
 disableShortcutsTitle=true
 
 [[menu.shortcuts]]
-name = "<i class='fa-brands fa-linkedin'></i>"
+name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
 identifier = "li"
 url = "https://www.linkedin.com/company/smartworkznl/about/"
 weight = 1
 
 [[menu.shortcuts]]
-name = "<i class='fa-solid fa-globe'></i>"
+name = "<i class='fa-solid fa-globe'></i> Web site"
 identifier = "ws"
 url = "https://www.smartworkz.nl"
 weight = 2
