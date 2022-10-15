@@ -25,6 +25,7 @@ identifier = "li"
 url = "https://www.linkedin.com/company/smartworkznl/about/"
 weight = 1
 
+[[menu.shortcuts]]
 name = "<i class='fa-solid fa-globe'></i>"
 identifier = "ws"
 url = "https://www.smartworkz.nl"
