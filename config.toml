@@ -34,7 +34,7 @@ weight = 2
 
 [[menu.shortcuts]]
 name = "<i class='fa-brands fa-github'></i> GitHub"
-identifier = "ws"
+identifier = "gh"
 url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 3
 
