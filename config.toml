@@ -32,6 +32,15 @@ identifier = "ws"
 url = "https://www.smartworkz.nl"
 weight = 2
 
+[[menu.shortcuts]]
+name = "<i class='fa-brands fa-github'></i> GitHub"
+
+<i class='fa-brands fa-github'></i>
+
+identifier = "ws"
+url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
+weight = 3
+
 [outputs]
 home = [ "HTML", "AMP", "RSS", "JSON"]
 page = [ "HTML", "AMP"]
