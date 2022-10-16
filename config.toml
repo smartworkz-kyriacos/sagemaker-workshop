@@ -16,7 +16,6 @@ author = "Daniele Stroppa"
 description = "Amazon SageMaker Workshop"
 disableSearch = false
 disableAssetsBusting = false
-<!--disableLanguageSwitchingButton = true-->
 disableLandingPageButton = true
 disableShortcutsTitle=true
 disableLanguageSwitchingButton = false
