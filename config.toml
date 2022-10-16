@@ -24,7 +24,6 @@ disableLanguageSwitchingButton = false
 home = [ "HTML", "AMP", "RSS", "JSON"]
 page = [ "HTML", "AMP"]
 
-<b>External links</b>
 
 [[menu.shortcuts]]
 name = "<i class='fa-solid fa-globe'></i> Web site"
