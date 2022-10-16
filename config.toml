@@ -1,4 +1,4 @@
-baseURL = "https://sagemaker-workshop.com"
+baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Amazon SageMaker Workshop"
@@ -20,6 +20,12 @@ disableLandingPageButton = true
 disableShortcutsTitle=true
 disableLanguageSwitchingButton = false
 
+[outputs]
+home = [ "HTML", "AMP", "RSS", "JSON"]
+page = [ "HTML", "AMP"]
+
+
+
 [[menu.shortcuts]]
 name = "<i class='fa-solid fa-globe'></i> Web site"
 identifier = "ws"
@@ -38,7 +44,5 @@ identifier = "gh"
 url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 3
 
-[outputs]
-home = [ "HTML", "AMP", "RSS", "JSON"]
-page = [ "HTML", "AMP"]
+
 
