@@ -19,6 +19,7 @@ disableAssetsBusting = false
 disableLanguageSwitchingButton = false
 disableLandingPageButton = true
 disableShortcutsTitle=true
+disableLanguageSwitchingButton = false
 
 [[menu.shortcuts]]
 name = "<i class='fa-solid fa-globe'></i> Web site"
